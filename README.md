@@ -335,8 +335,3 @@ The pipeline generates:
 
 ---
 
-# Author
-
-Daniel Adebola
-
-Data Engineering & Analytics Project
